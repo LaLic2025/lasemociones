@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lim version="5.6.4">
     <config>
+        <recursos>REC</recursos>
         <idioma>0</idioma>
         <licencia></licencia>
         <corfondo>FF1AFF</corfondo>
@@ -49,13 +50,13 @@
               <cabeceira>DESCUBRE LA PALABRA SECRETA</cabeceira>
               <imaxe>TRISTEZA.jpeg</imaxe>
               <texto><![CDATA[QUE EMOCION SIENTES CUANDO SE MUERE TU MASCOTA?]]></texto>
-              <resp texto="">TRISTEZA </resp>
+              <resp texto="">TRISTEZA</resp>
               <modo>1</modo>
               <forma>0</forma>
         </paxina>
         <paxina id="5" >
               <tipo>4</tipo>
-              <cabeceira>REALIZA LA SIGUIENTESOPA DE LETRAS </cabeceira>
+              <cabeceira>REALIZA LA SIGUIENTESOPA DE LETRAS</cabeceira>
               <modo>2</modo>
               <sopa enun="ALEGRIA.jpeg">ALEGRIA</sopa>
               <sopa enun="DESAGRADO.jpeg">DESAGRADO</sopa>
@@ -102,7 +103,7 @@
         </paxina>
         <paxina id="9" >
               <tipo>35</tipo>
-              <cabeceira>ORDENA LAS EMOCIONES </cabeceira>
+              <cabeceira>ORDENA LAS EMOCIONES</cabeceira>
               <forma>1</forma>
               <completa>ALEGRIA.jpeg</completa>
               <completa>TEMOR.jpeg</completa>
