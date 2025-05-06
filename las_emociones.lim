@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FF1AFF</corfondo>
+        <corbanda>00D5D5</corbanda>
+        <cornavega>4AFF4A</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>LAS EMOCIONES</titulo>
+        <autor>ANYIE BLANCO MORALES</autor>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUY BIEN , FELICIDADES</correcto>
+        <incorrecto son="" modo="1" >SIGUE INTENTANDO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>HOJA_DE_PRESENTACION_ANYIE_BLANCO_MORALES.jpg</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>VIDEOOOO.mp4</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Century Schoolbook" size="54">DEFINICION</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <cabeceira>REALIZA EL SIGUIENTE ROMPECABEZA</cabeceira>
+              <imaxe>portada.jpg</imaxe>
+              <imfondo  trans="20">portada.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>DESCUBRE LA PALABRA SECRETA</cabeceira>
+              <imaxe>TRISTEZA.jpeg</imaxe>
+              <texto><![CDATA[QUE EMOCION SIENTES CUANDO SE MUERE TU MASCOTA?]]></texto>
+              <resp texto="">TRISTEZA </resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>4</tipo>
+              <cabeceira>REALIZA LA SIGUIENTESOPA DE LETRAS </cabeceira>
+              <modo>2</modo>
+              <sopa enun="ALEGRIA.jpeg">ALEGRIA</sopa>
+              <sopa enun="DESAGRADO.jpeg">DESAGRADO</sopa>
+              <sopa enun="ENOJO.jpeg">ENOJO</sopa>
+              <sopa enun="portada.jpg">EMOCIONES</sopa>
+              <sopa enun="TEMOR.jpeg">TEMOR</sopa>
+              <sopa enun="TRISTEZA.jpeg">TRISTEZA</sopa>
+              <sopa enun="WhatsApp_Image_2025-04-29_at_1.48.47_PM_(3).jpeg">SORPRESA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+              <cabeceira>ESCRIBE EL NOMBRE DE LA EMOCION QUE CORRESPONDE</cabeceira>
+              <modo>3</modo>
+              <cousa nome="">WhatsApp_Image_2025-04-29_at_1.48.47_PM_(3).jpeg</cousa>
+              <cousa nome="">DESAGRADO.jpeg</cousa>
+              <cousa nome="">ENOJO.jpeg</cousa>
+              <cousa nome="">TEMOR.jpeg</cousa>
+              <cousa nome="">TRISTEZA.jpeg</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTRA EL NOMBRE A LA IMAGEN QUE CORRESPONDE</cabeceira>
+              <modo>3</modo>
+              <cousa nome="SORPRESA">WhatsApp_Image_2025-04-29_at_1.48.47_PM_(3).jpeg</cousa>
+              <cousa nome="DESAGRADO">DESAGRADO.jpeg</cousa>
+              <cousa nome="ENOJO">ENOJO.jpeg</cousa>
+              <cousa nome="TEMOR">TEMOR.jpeg</cousa>
+              <cousa nome="TRISTEZA">TRISTEZA.jpeg</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>17</tipo>
+              <cabeceira>ENCUENTRA LAS PAREJAS</cabeceira>
+              <parellas>ALEGRIA.jpeg</parellas>
+              <parellas>DESAGRADO.jpeg</parellas>
+              <parellas>ENOJO.jpeg</parellas>
+              <parellas>TEMOR.jpeg</parellas>
+              <parellas>TRISTEZA.jpeg</parellas>
+              <parellas>WhatsApp_Image_2025-04-29_at_1.48.47_PM_(3).jpeg</parellas>
+              <cfondo>FF1AFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENA LAS EMOCIONES </cabeceira>
+              <forma>1</forma>
+              <completa>ALEGRIA.jpeg</completa>
+              <completa>TEMOR.jpeg</completa>
+              <completa>TRISTEZA.jpeg</completa>
+              <completa>DESAGRADO.jpeg</completa>
+              <completa>ENOJO.jpeg</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>24</tipo>
+              <cabeceira>COMO TE SIENTES CUANDO TE CULPAN POR ALGO QUE NO HICISTE?</cabeceira>
+              <etiqueta imaxe="ALEGRIA.jpeg" texto="">0</etiqueta>
+              <etiqueta imaxe="DESAGRADO.jpeg" texto="">0</etiqueta>
+              <etiqueta imaxe="ENOJO.jpeg" texto="">1</etiqueta>
+              <etiqueta imaxe="TEMOR.jpeg" texto="">0</etiqueta>
+              <etiqueta imaxe="TRISTEZA.jpeg" texto="">0</etiqueta>
+              <etiqueta imaxe="WhatsApp_Image_2025-04-29_at_1.48.47_PM_(3).jpeg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+    </libro>
+</lim>
